@@ -1,2 +1,1 @@
-# ConsumoApiPokemon_ReactNative
-### Api usada: <a href='https://pokeapi.co/'>PokéAPI</a>
+# atv_05_api_pokemons
